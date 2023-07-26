@@ -1,0 +1,112 @@
+title: Trolley Wayfinder
+email: info@trolleywayfinder.org
+description: >-
+  Membership at any one Trolley museum will get you a discounted admission at one of the others.
+baseurl: ""
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+museums:
+  - name: Baltimore Streetcar Museum, Inc.
+    address: 1901 Falls Road, Baltimore, MD 21211
+    url: https://www.baltimorestreetcarmuseum.org
+    phone: 410-547-0264
+    discount: Members, visit on regular admission days and receive free admission.
+    img: /pix/baltimore-300x76.png
+    img_width: 300
+    img_height: 76
+
+  - name: Connecticut Trolley Museum
+    address: 58 North Road, East Windsor, CT 06088
+    url: https://www.ct-trolley.org/
+    phone: 860-627-6540
+    discount: Members of participating museums receive half-off general admission. This offer is not applicable during special events.
+    img: /pix/ct-300x227.png
+    img_width: 300
+    img_height: 227
+
+
+
+  - name: National Streetcar Museum at Lowell
+    address: 25 Shattuck Street, Lowell, MA 01852
+    url: https://trolleymuseum.org/
+    phone: 978-458-5835
+    discount: Receive $2 off admission for you and each family member on regular admission days.
+    img: /pix/lowell-300x246.png
+    img_width: 300
+    img_height: 246
+
+  - name: National Capital Trolley Museum
+    address: 1313 Bonifant Road, Silver Spring, MD 20905
+    url: https://www.dctrolley.org
+    phone: 301-384-6088
+    discount: Receive 10% of on Museum Store purchases.
+    img: /pix/nationalcapital-300x36.png
+    img_width: 300
+    img_height: 36
+
+  - name: New York Transit Museum
+    address: 99 Schermerhorn Street, Brooklyn, NY 11201
+    url: https://www.nytransitmuseum.org/
+    phone: 718-694-1600
+    discount: Receive $2 off admission for you and each family member on regular admission days.
+    img: /pix/nytransit-300x203.png
+    img_width: 300
+    img_height: 203
+
+  - name: Pennsylvania Trolley Museum
+    address: 1 Museum Road, Washington, PA 15301
+    url: https://pa-trolley.org
+    phone: 724-228-9256
+    discount: Receive $2 off admission for you and each family member on regular admission days.
+    img: /pix/pennsylvania-1024x1024.png
+    img_width: 300
+    img_height: 300
+
+  - name: Rockhill Trolley Museum
+    address: 430 Meadow Street, Rockhill, PA 17249
+    url: http://rockhilltrolley.org
+    phone: 814-447-9576
+    discount: Receive $2 off admission for you and each family member on regular admission days.
+    img: /pix/rockhill-182x104.png
+    img_width: 300
+    img_height: 100%
+
+  - name: Seashore Trolley Museum
+    address: 195 Log Cabin Road, Kennebunkport, ME 04046
+    url: https://trolleymuseum.org
+    phone: 207-967-2800
+    discount: Receive $2 off admission for you and each family member on regular admission days.
+    img: /pix/seashore-300x300.png
+    img_width: 300
+    img_height: 300
+
+  - name: Shelburne Falls Trolley Museum
+    address: 14 Depot Street, Shelburne Falls, MA 01370
+    url: https://sftm.org/wayfinder.shtml
+    phone: 413-625-9443
+    discount: Receive $2 off admission for you and each family member on regular admission days.
+    img: /pix/shelburne-300x233.png
+    img_width: 300
+    img_height: 233
+
+  - name: Shoreline Trolley Museum
+    address: 17 River Street, East Haven, CT 06512
+    url: https://shorelinetrolley.org/
+    phone: 203-467-6927
+    discount: Current members of participating museums receive free admission.
+    img: /pix/shoreline-300x79.png
+    img_width: 300
+    img_height: 79
+
+
+
+
+
+
+
+
+
